@@ -1,1 +1,27 @@
-/*# sourceMappingURL=global.css.map */
+* {
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+}
+
+.content {
+  padding: 1rem;
+}
+.content h1 {
+  margin: 0;
+}
+
+.pokemons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.pokemons li {
+  margin: 0.5rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: #14a06F;
+  color: #fff;
+  height: 20vh;
+}/*# sourceMappingURL=global.css.map */
