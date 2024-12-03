@@ -76,12 +76,6 @@ pokedex_dio/
                 <li>Abra um Pull Request.</li>
             </ol>
         </section>
-        <section>
-            <h2>Licença</h2>
-            <p>
-                Este projeto está licenciado sob a licença MIT. Consulte o arquivo <a href="LICENSE">LICENSE</a> para mais detalhes.
-            </p>
-        </section>
     </main>
     <footer>
         <p>Desenvolvido por <a href="https://github.com/viannaingrid" target="_blank">Ingrid Vianna de Oliveira</a></p>
