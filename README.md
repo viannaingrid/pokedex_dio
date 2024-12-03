@@ -10,6 +10,7 @@
                 incluindo nome, imagem, tipo e habilidades, através de uma interface amigável e intuitiva.
             </p>
         </section>
+        <br>
         <section>
             <h2>Tecnologias Utilizadas</h2>
             <ul>
@@ -19,6 +20,7 @@
                 <li><strong>API REST</strong>: Consumo de dados do <a href="https://pokeapi.co" target="_blank">PokéAPI</a>.</li>
             </ul>
         </section>
+        <br>
         <section>
             <h2>Funcionalidades</h2>
             <ul>
@@ -28,6 +30,7 @@
                 <li>🔗 Integração com API REST para dados atualizados em tempo real.</li>
             </ul>
         </section>
+        <br>
         <section>
             <h2>Como Executar o Projeto</h2>
             <ol>
@@ -40,6 +43,7 @@
                 <li>Abra o arquivo <code>index.html</code> no navegador.</li>
             </ol>
         </section>
+        <br>
         <section>
             <h2>Estrutura do Projeto</h2>
             <pre><code>
@@ -51,6 +55,7 @@ pokedex_dio/
 └── README.md        # Documentação do projeto
             </code></pre>
         </section>
+        <br>
         <section>
             <h2>Melhorias Futuras</h2>
             <ul>
@@ -59,6 +64,7 @@ pokedex_dio/
                 <li>Incluir informações adicionais, como status de batalha e evoluções.</li>
             </ul>
         </section>
+        <br>
         <section>
             <h2>Contribuição</h2>
             <p>Contribuições são bem-vindas! Siga as etapas:</p>
@@ -76,7 +82,9 @@ pokedex_dio/
                 <li>Abra um Pull Request.</li>
             </ol>
         </section>
+        <br>
     </main>
+    <br>
     <footer>
         <p>Desenvolvido por <a href="https://github.com/viannaingrid" target="_blank">Ingrid Vianna de Oliveira</a></p>
     </footer>
