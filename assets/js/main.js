@@ -2,7 +2,7 @@ const pokemonsList = document.getElementById('pokemonsList')
 const loadMore = document.getElementById('loadMore')
 
 const limit = 5
-const offset = 0;
+let offset = 0;
 
 
 function loadPokemonItens (offset, limit) {
@@ -26,9 +26,9 @@ function loadPokemonItens (offset, limit) {
     })
 }
 
-loadPokemonItens(limit, offset)
+loadPokemonItens(offset, limit)
 
 loadMore. addEventListener('click', () => {
     offset += limit
-    loadPokemonItens()
+    loadPokemonItens(offset, limit)
 })
