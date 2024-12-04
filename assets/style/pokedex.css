@@ -118,4 +118,6 @@
   margin: 0.25rem 0.8rem;
   border-radius: 1rem;
   font-size: 0.725rem;
+  filter: brightness(1.1);
+  text-align: center;
 }/*# sourceMappingURL=pokedex.css.map */
