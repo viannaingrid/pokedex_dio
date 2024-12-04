@@ -84,7 +84,6 @@
   margin: 0.5rem;
   padding: 1rem;
   border-radius: 1rem;
-  background-color: #49d0b0;
   color: #fff;
 }
 .pokemon .detail {
@@ -114,7 +113,6 @@
   list-style: none;
 }
 .pokemon .type {
-  background-color: #61e1ca;
   color: #fff;
   padding: 0.25rem 1rem;
   margin: 0.25rem 0.8rem;
