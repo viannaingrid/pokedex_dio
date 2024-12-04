@@ -121,4 +121,13 @@
   font-size: 0.725rem;
   filter: brightness(1.1);
   text-align: center;
+}
+
+.pagination {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 2rem;
 }/*# sourceMappingURL=pokedex.css.map */
