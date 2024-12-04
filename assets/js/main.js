@@ -2,7 +2,7 @@ const pokemonsList = document.getElementById('pokemonsList')
 const loadMore = document.getElementById('loadMore')
 
 maxRecords = 151
-const limit = 5
+const limit = 10
 let offset = 0;
 
 
