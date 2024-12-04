@@ -130,4 +130,15 @@
   align-items: center;
   width: 100%;
   padding: 2rem;
+}
+.pagination button {
+  padding: 0.25rem 0.25rem;
+  margin: 0.25rem 0;
+  color: #fff;
+  background-color: #6c79db;
+  border: none;
+  border-radius: 1rem;
+  width: 60%;
+  height: 5vh;
+  font-size: 20px;
 }/*# sourceMappingURL=pokedex.css.map */
