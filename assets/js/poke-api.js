@@ -1,7 +1,7 @@
 const pokeApi = {}
 
 function convertPokeApiDetailToPokemon(pokeDetail) {
-    const pokemon = new Pokemon()
+    const pokemon = {}
     pokemon.number = pokeDetail.order
     pokemon.name = pokeDetail.name
 
